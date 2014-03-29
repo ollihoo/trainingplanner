@@ -10,6 +10,7 @@
         "jade": "*",
         "mongodb": "*",
         "monk": "*",
-        "passport": "*"
+        "passport": "*",
+        "passport-http": "*"
     }
 }
